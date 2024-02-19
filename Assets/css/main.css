@@ -1190,10 +1190,6 @@ header .auth {
     font-size: 12px;
   }
 }
-
-/* desktop */
-@media screen and (min-width: 1193px) {
-}
 /*end pricing*/
 
 /*start footer*/
@@ -1362,7 +1358,6 @@ footer .footer-end {
     height: 15px;
   }
 }
-/* desktop */
-@media screen and (min-width: 1193px) {
-}
 /*end footer*/
+/* that mean end the project ! */
+/* finally i do what i need when i need */
